@@ -40,6 +40,15 @@ main{
   color: #4A4E74;
 }
 
+.score{
+  font-size: 1rem;
+}
+
+.timer{
+  font-size: 1rem;
+  margin: 0;
+}
+
 .dice--container{
   display: grid;
   grid-template: auto auto / repeat(5, 1fr);
